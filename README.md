@@ -29,7 +29,7 @@ Retro pixelated graphics, background music, and smooth gameplay make it a fun cl
 
 ## 🎨 Screenshots
 
-![Gameplay Screenshot](./img/gameplay-screenshot.png)  
+![Gameplay Screenshot]([./img/Screenshot from 2025-10-01 22-59-04.png])  
 *Pixelated retro style with pipes and bird animation.*
 
 ---
